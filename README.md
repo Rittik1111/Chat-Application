@@ -21,4 +21,12 @@ AWT / Swing (for GUI)
 
 Java IO & Networking (java.io., java.net.)
 
-NetBeans IDE (for development and testing)
+# Future Improvements
+Add user authentication
+
+Support for group chat
+
+Add emoji/sticker support
+
+Improve file transfer progress UI
+
